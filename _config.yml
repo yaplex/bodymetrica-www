@@ -1,6 +1,2 @@
 title: BodyMetrica
-logo: /assets/img/logo.png
 description: BodyMetrica is a free and open-source application to monitor body weight, blood pressure and similar body metrics.
-show_downloads: false
-google_analytics:
-#theme: jekyll-theme-minimal
