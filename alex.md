@@ -4,106 +4,10 @@ type: page
 categories: []
 tags: []
 permalink: '/alex/'
-
-headshots:
-  - url: /assets/images/bio-photo.jpg
-    image_path: /assets/images/bio-photo.jpg
-    alt: 'headshot'
-    title: 'Chris Ayers Headshot'
-  - url: /assets/headshot/head-shoulders.png
-    image_path: /assets/headshot/head-shoulders.png
-    alt: 'headshot'
-    title: 'Chris Ayers Headshot'
-
-cert-badges:
-  - url: /assets/badges/terraform-certified-associate.png
-    image_path: /assets/badges/terraform-certified-associate.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/github-actions.png
-    image_path: /assets/badges/github-actions.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-azure-devops-engineer-expert.png
-    image_path: /assets/badges/microsoft-certified-azure-devops-engineer-expert.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/az-100-microsoft-azure-infrastructure-and-deployment.png
-    image_path: /assets/badges/az-100-microsoft-azure-infrastructure-and-deployment.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/az-400-microsoft-azure-devops-solutions.png
-    image_path: /assets/badges/az-400-microsoft-azure-devops-solutions.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/certified-kubernetes-application-developer.png
-    image_path: /assets/badges/certified-kubernetes-application-developer.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/exam-480-programming-in-html5-with-javascript-and-css3.png
-    image_path: /assets/badges/exam-480-programming-in-html5-with-javascript-and-css3.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/exam-483-programming-in-c.png
-    image_path: /assets/badges/exam-483-programming-in-c.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-azure-administrator-associate.png
-    image_path: /assets/badges/microsoft-certified-azure-administrator-associate.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-azure-ai-fundamentals.png
-    image_path: /assets/badges/microsoft-certified-azure-ai-fundamentals.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-azure-data-fundamentals.png
-    image_path: /assets/badges/microsoft-certified-azure-data-fundamentals.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-azure-developer-associate.png
-    image_path: /assets/badges/microsoft-certified-azure-developer-associate.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-azure-fundamentals.png
-    image_path: /assets/badges/microsoft-certified-azure-fundamentals.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-azure-iot-developer-specialty.png
-    image_path: /assets/badges/microsoft-certified-azure-iot-developer-specialty.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-azure-network-engineer-associate.png
-    image_path: /assets/badges/microsoft-certified-azure-network-engineer-associate.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-azure-security-engineer-associate.png
-    image_path: /assets/badges/microsoft-certified-azure-security-engineer-associate.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-azure-solutions-architect-expert.png
-    image_path: /assets/badges/microsoft-certified-azure-solutions-architect-expert.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-cybersecurity-architect-expert.png
-    image_path: /assets/badges/microsoft-certified-cybersecurity-architect-expert.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-power-platform-fundamentals.png
-    image_path: /assets/badges/microsoft-certified-power-platform-fundamentals.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/microsoft-certified-security-compliance-and-identity-fundamentals.png
-    image_path: /assets/badges/microsoft-certified-security-compliance-and-identity-fundamentals.png
-    alt: 'cert'
-    title: 'cert'
-  - url: /assets/badges/muma-diversity-equity-inclusion-badge.png
-    image_path: /assets/badges/muma-diversity-equity-inclusion-badge.png
-    alt: 'cert'
-    title: 'cert'
+ 
 ---
 
-{% include gallery id="headshots" caption="This is a gallery of headshots." %}
-
+ 
 Chris Ayers is a Senior Site Reliability Engineer on Microsoft's AzRel Risk SRE team, drawing on years of experience in cloud architecture, software development, and DevOps practices. He's passionate about continuous improvement, driving reliability, and sharing industry best practices. He is also an international speaker and one of the lead organizers for DevOps Days Tampa Bay. Outside of work, Chris is a devoted father, technology enthusiast, and avid gamer. Connect with him online to explore insights into cloud operations, agile methodologies, and more.
 
 ## Certifications
@@ -151,4 +55,4 @@ View my verified Certifications at [Credly](https://www.credly.com/users/chris-a
 - Microsoft Certified: Azure Developer Associate (Legacy, Expired)
 - Microsoft Certified: Azure Administrator Associate (Legacy, Expired)
 
-{% include gallery id="cert-badges" caption="This is a gallery of my badges." %}
+ 
