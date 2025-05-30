@@ -1,5 +1,5 @@
 ---
-title: About alex
+title: About Me
 type: page
 categories: []
 tags: []
