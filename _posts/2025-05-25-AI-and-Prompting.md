@@ -9,7 +9,7 @@ tags:
 categories: 
     - Technology
     - AI
-permalink: /2025/05/08/ai-and-prompting-part-1/
+# permalink: /2025/05/08/ai-and-prompting-part-1/
 excerpt_separator: "<!--more-->"
 ---
 
