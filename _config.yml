@@ -1,6 +1,6 @@
-title: Minimal theme
+title: BodyMetrica
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: BodyMetrica is a free and open-source application to monitor body weight, blood pressure and similar body metrics.
+show_downloads: false
 google_analytics:
 #theme: jekyll-theme-minimal
